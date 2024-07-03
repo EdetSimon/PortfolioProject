@@ -85,8 +85,6 @@ ORDER BY 1,2 ASC;
 SELECT *
 FROM covidvaccinations;
 
--- Creating views to store date for later visualizations
-
 
 
 
